@@ -20,3 +20,15 @@ It deals with the problem of determining which natural language given content is
 
 # langdetect
 Port of Google's language-detection library (version from 03/03/2014) to Python.
+
+
+```
+Requirements:
+
+langdetect
+
+And all supported languages are listed in Master Mapper e.g Master_check.
+
+If want to update with other package or method can include in code library and list new language in Master Mapper to get detection done.
+
+```
